@@ -12,9 +12,25 @@
     "description": "crawler"
   },
   {
-    "id": 3, "name": "fiddle leaf fig", "price": 40, "description": "tall"}, {"id": 4, "name": "Golden Pothos", "price": 35, "description": "yellow"},
-{"id": 5, "title": "Monstera Adanasonii", "price": 40, "description": "Large leaves"}, {"id": 6, "title": "Monstera Deliciosa", "price": 20, "description": "Holes in leaves"},
-{
+    "id": 3, 
+    "name": "fiddle leaf fig", 
+    "price": 40, 
+    "description": "tall"
+  }, 
+  {
+    "id": 4, 
+    "name": "Golden Pothos", 
+    "price": 35, 
+    "description": "yellow"
+  },
+  {
+    "id": 5, 
+    "title": "Monstera Adanasonii", "price": 40, "description": "Large leaves"
+  }, 
+  {
+    "id": 6, "title": "Monstera Deliciosa", "price": 20, "description": "Holes in leaves"
+  },
+  {
   "id": 15,
   "name": "Cat Pot",
   "price": 40,
