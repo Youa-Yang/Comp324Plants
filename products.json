@@ -1,0 +1,62 @@
+{"id": 1, "name": "Dracanea", "price": 40, "description": "easy care"}, {"id": 2, "name": "English Ivy", "price": 20, "description": "crawler"},
+{"id": 3, "name": "fiddle leaf fig", "price": 40, "description": "tall"}, {"id": 4, "name": "Golden Pothos", "price": 35, "description": "yellow"},
+{"id": 5, "title": "Monstera Adanasonii", "price": 40, "description": "Large leaves"}, {"id": 6, "title": "Monstera Deliciosa", "price": 20, "description": "Holes in leaves"},
+{
+  "id": 15,
+  "name": "Cat Pot",
+  "price": 40,
+  "description": "small"
+},
+{
+  "id": 11,
+  "name": "Cute Ceramic Pot",
+  "price": 20,
+  "description": "cute"
+  },
+{
+  "id": 12,
+  "name": "Large Cat Pot",
+  "price": 40,
+  "description": "Large"
+},
+{
+  "id": 13,
+  "name": "Pig Pot",
+  "price": 35,
+  "description": "silly fun"
+},
+{
+  "id": 14,
+  "name": "Heart Pot",
+  "price": 40,
+  "description": "Lovely pot"},
+  {
+  "id": 7,"name": "Aloe Vera",
+      "price": 20,
+      "description": "crawler"
+      },
+    {
+      "id": 8,
+      "name": "Echevaria",
+      "price": 40,
+      "description": "desert flowers"
+    },
+    {
+      "id": 9,
+      "name": "Jade Plant",
+      "price": 35,
+      "description": "lucky plant"
+    },
+    {
+      "id": 10,
+      "title": "Lithops",
+      "price": 30,
+      "description": "Hoppy"
+    },
+    {
+      "id": 11,
+      "title": "Jellybean Sedum",
+      "price": 30,
+      "description": "Beans everywhere"
+
+    }
